@@ -716,5 +716,11 @@ h4 {
   font-weight: bold !important;
   font-family: "PT Sans Narrow";
 }
+.yellow-text {
+  color: #fcd920 !important;
+  font-size: 2rem;
+  font-weight: bold !important;
+  font-family: "PT Sans Narrow";
+}
 
 /*# sourceMappingURL=styles.css.map */
